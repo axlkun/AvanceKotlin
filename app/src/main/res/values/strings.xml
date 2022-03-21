@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mi APP AxelCruz</string>
+    <string name="edt_name">Name</string>
+    <string name="edt_age">Age</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_age">Age</string>
+    <string name="rdb_gender1">Woman</string>
+    <string name="rdb_gender2">Man</string>
+    <string name="btn_go">Go</string>
+    <string name="alert_delete">Estas seguro de eliminar este registro?</string>
+</resources>
